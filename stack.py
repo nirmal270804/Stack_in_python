@@ -2,7 +2,7 @@ stk = []
 c_size = 0
 max_size = 10
 def stack():
-    global c_size, max_size  # Declare c_size and max_size as global
+    global c_size, max_size  
     print("Choose Operations:")
     print("1. Push")
     print("2. Pop")
